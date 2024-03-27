@@ -1,26 +1,15 @@
 # InformationGathering
 Information Gathering Techiques
-
 # To perform information gathering techniques
-
-# AIM:
-
+## AIM:
 To perform information gathering techniques using kali linux 
-
 ## STEPS:
-
 ### Step 1:
-
 Install kali linux either in partition or virtual box or in live mode
-
 ### Step 2:
-
 Investigate on the various categories of tools as follows:
-
 ### Step 3:
 Open terminal/browser and try execute necessary commands/use url to perform information gathering
-
-
 ## OUTPUT:
 ### WHOIS
 ![image](https://github.com/Yamunaasri/InformationGathering/assets/115707860/6a011928-b4a4-47d6-96cd-46353b69cb88)
